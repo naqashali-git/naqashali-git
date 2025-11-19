@@ -64,3 +64,70 @@ A modular NLP toolkit for extracting and analyzing requirements from technical s
 ### ✨ Fun Fact  
 My first automation script was written to analyze a 200-page MIL-STD PDF.  
 Now it's a full NLP toolkit powering my AI/MBSE portfolio.
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 [standards-requirements-nlp](https://github.com/naqashali-git/standards-requirements-nlp)
+**NLP Toolkit for extracting and analyzing requirements from technical standards (MIL-STD, DoD, IEEE, BAA).**
+
+- 📄 PDF → Text → Requirements  
+- 🧠 TF-IDF • Preprocessing • Co-location analysis  
+- 🧰 Modular Python package (pdf_extractor, preprocess, classifier, TF-IDF, exporters)  
+- 📊 CSV & Excel outputs  
+- 🛠 Built with Python, sklearn, NLTK, PyPDF2
+
+---
+
+### 🔹 RAG Engineering Assistant *(Coming Soon)*
+**A Retrieval-Augmented Generation system for interacting with engineering documents.**
+
+- 📚 PDF chunking & embeddings  
+- 🔍 Vector search (FAISS / Chroma)  
+- 🤖 LLM-powered technical Q/A  
+- ⚡ FastAPI backend + Streamlit UI  
+- 🛠 Built with LangChain + Python  
+
+---
+
+### 🔹 MBSE + GenAI Toolkit *(Coming Soon)*
+**Experiments integrating LLMs with SysML modeling workflows.**
+
+- 🧩 SysML block/requirement generation  
+- 🔗 Traceability link suggestions  
+- 🧠 Prompt engineering for engineering tasks  
+- 🛠 Powered by Python + LlamaIndex
+
+---
+
+## 🛠 Tech Stack
+
+### **Languages**
+- Python  
+- Java (Spring AI – learning)  
+- Bash  
+
+### **AI / NLP**
+- LangChain  
+- LlamaIndex  
+- HuggingFace  
+- sklearn  
+- NLTK / spaCy  
+
+### **MBSE / Systems Engineering**
+- SysML  
+- Cameo Systems Modeler  
+- Digital Thread methods  
+
+### **Frameworks**
+- FastAPI  
+- Flask  
+- Streamlit  
+
+### **Tools**
+- Git  
+- Docker  
+- VS Code  
+- Jupyter Notebooks  
+
