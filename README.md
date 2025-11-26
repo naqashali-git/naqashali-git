@@ -5,23 +5,23 @@
   <img src="https://img.shields.io/badge/Current%20Focus-RAG%20Systems-red">
 </p>
 
-# 👋 Hi, I'm **Naqash Ali**
+# Hi, I'm **Naqash Ali**
 
 **Systems Engineer specializing in Digital Engineering, NLP pipelines, and Generative AI solutions.**  
 I build tools that merge **MBSE**, **NLP**, and **AI** to automate engineering workflows and transform technical standards into structured, usable model elements.
 
 My work focuses on:
-- 📘 *MBSE and SysML modeling*
-- 📄 *AI-driven requirements extraction from large PDF standards*
-- 🤖 *GenAI tools for engineering decision-support*
-- 🧠 *Retrieval-Augmented Generation (RAG)*
-- ⚙️ *System integration and automation*
+- *MBSE and SysML modeling*
+- *AI-driven requirements extraction from large PDF standards*
+- *GenAI tools for engineering decision-support*
+- *Retrieval-Augmented Generation (RAG)*
+- *System integration and automation*
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
-### 🔹 **standards-requirements-nlp**  
+###  **standards-requirements-nlp**  
 A modular NLP toolkit for extracting and analyzing requirements from technical standards (MIL-STD, DoD, IEEE, BAA documents).
 
 - PDF → Text → Requirements  
@@ -30,11 +30,11 @@ A modular NLP toolkit for extracting and analyzing requirements from technical s
 - CSV/Excel exports  
 - Recruiter-ready project
 
-👉 https://github.com/naqashali-git/standards-requirements-nlp
+https://github.com/naqashali-git/standards-requirements-nlp
 
 ---
 
-## 🧠 What I'm Working On
+## What I'm Working On
 
 - Building a **RAG search assistant** for engineering knowledge  
 - Exploring **LLM-assisted SysML modeling**  
@@ -43,7 +43,7 @@ A modular NLP toolkit for extracting and analyzing requirements from technical s
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 **Languages:** Python • Java (learning Spring AI)  
 **AI/NLP:** LangChain • LlamaIndex • TF-IDF • Embeddings • HuggingFace  
@@ -53,7 +53,7 @@ A modular NLP toolkit for extracting and analyzing requirements from technical s
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - **LinkedIn:** https://www.linkedin.com/in/naqash-ali1788  
 - **GitHub:** https://github.com/naqashali-git  
@@ -61,47 +61,47 @@ A modular NLP toolkit for extracting and analyzing requirements from technical s
 
 ---
 
-### ✨ Fun Fact  
+### Fun Fact  
 My first automation script was written to analyze a 200-page MIL-STD PDF.  
 Now it's a full NLP toolkit powering my AI/MBSE portfolio.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔹 [standards-requirements-nlp](https://github.com/naqashali-git/standards-requirements-nlp)
 **NLP Toolkit for extracting and analyzing requirements from technical standards (MIL-STD, DoD, IEEE, BAA).**
 
-- 📄 PDF → Text → Requirements  
-- 🧠 TF-IDF • Preprocessing • Co-location analysis  
-- 🧰 Modular Python package (pdf_extractor, preprocess, classifier, TF-IDF, exporters)  
-- 📊 CSV & Excel outputs  
-- 🛠 Built with Python, sklearn, NLTK, PyPDF2
+- PDF → Text → Requirements  
+- TF-IDF • Preprocessing • Co-location analysis  
+- Modular Python package (pdf_extractor, preprocess, classifier, TF-IDF, exporters)  
+- CSV & Excel outputs  
+- Built with Python, sklearn, NLTK, PyPDF2
 
 ---
 
-### 🔹 RAG Engineering Assistant *(Coming Soon)*
+###  RAG Engineering Assistant *(Coming Soon)*
 **A Retrieval-Augmented Generation system for interacting with engineering documents.**
 
-- 📚 PDF chunking & embeddings  
-- 🔍 Vector search (FAISS / Chroma)  
-- 🤖 LLM-powered technical Q/A  
-- ⚡ FastAPI backend + Streamlit UI  
-- 🛠 Built with LangChain + Python  
+- PDF chunking & embeddings  
+- Vector search (FAISS / Chroma)  
+- LLM-powered technical Q/A  
+- FastAPI backend + Streamlit UI  
+- Built with LangChain + Python  
 
 ---
 
-### 🔹 MBSE + GenAI Toolkit *(Coming Soon)*
+###  MBSE + GenAI Toolkit *(Coming Soon)*
 **Experiments integrating LLMs with SysML modeling workflows.**
 
-- 🧩 SysML block/requirement generation  
-- 🔗 Traceability link suggestions  
-- 🧠 Prompt engineering for engineering tasks  
-- 🛠 Powered by Python + LlamaIndex
+- SysML block/requirement generation  
+- Traceability link suggestions  
+- Prompt engineering for engineering tasks  
+- Powered by Python + LlamaIndex
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### **Languages**
 - Python  
